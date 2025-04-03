@@ -65,10 +65,6 @@ Este proyecto implementa una radio web utilizando ESP8266 o ESP32. Se conecta a 
 - ESP8266 o ESP32
 - Conexión WiFi
 - Altavoz con salida I2S
-- Librerías necesarias:
-```ini
-lib_deps = earlephilhower/ESP8266Audio@^1.9.0
-```
 
 ## Procedimiento:
 
